@@ -9,8 +9,10 @@ I am a self-taught student of frontend programming but I am also interested in c
 🌱 I'm currently learning Python <br>
 🐧 I really want to collaborate on open source projects following the Linux philosophy.<br>
 ✔ If you need help with something you can ask me without problem.<br>
-🎮I love playing video games, 🎵 listening to music and 📖 reading Philosophy books.<br>
-📫 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
+🎮I love playing video games. <br>
+🎵 listening to music and <br>
+📚 reading Philosophy books.<br>
+📞 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
 <b>My Skills Include</b> 
 

@@ -53,5 +53,13 @@ I am a self-taught student of frontend programming but I am also interested in c
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 </span>
 
+<pre>
+  _,-._
+ / \_/ \
+>-(_)-<
+ \_/ \_/
+   `-'
+</pre>
+
 </div>
 

@@ -14,7 +14,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 📚 reading Philosophy books.<br>
 📞 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
-<b>My Skills Include</b> 
+<b>💻Tech stack</b> 
 
 <h4> Languages </h4>
 <span> 

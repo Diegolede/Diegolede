@@ -53,7 +53,6 @@ I am a self-taught student of frontend programming but I am also interested in c
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 </span>
 
-<img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/pxunm7f738mBRsmQ8q/giphy.gif?cid=ecf05e47rd3tidvf3tkwuc2dvq4hbo3zsif1pv1g12lm37si&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 <p align="center">
   <img width="300px" alt="Unicorn" src="https://media.giphy.com/media/pxunm7f738mBRsmQ8q/giphy.gif?cid=ecf05e47rd3tidvf3tkwuc2dvq4hbo3zsif1pv1g12lm37si&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
 </p>

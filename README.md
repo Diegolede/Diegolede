@@ -12,7 +12,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 🎮I love playing video games. <br>
 🎵 listening to music and <br>
 📚 reading Philosophy books.<br>
-🚗 Active project the programming library. <br>
+🚗 Active project <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/">the programming library.</a><br>
 📞 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
 <b>💻Tech stack</b> 

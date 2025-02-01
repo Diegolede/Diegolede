@@ -12,7 +12,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 🎮I love playing video games, 🎵 listening to music and 📖 reading Philosophy books
 📫 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
-My Skills Include
+<h2> My Skills Include </h2>
 
 <h4> Languages </h4>
 <span> 

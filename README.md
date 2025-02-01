@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNtaTA3ejRza2t3MGQ0dHh1OTI4MGFhZ2w4bG9tZjd6ZDZvamh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGRsOWFvczh3NjlxNHMxaXEzNzBzNHIyMGNuZ3BsajY4bnpuZGpxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sIo7BCXxPDPNDfS3dE/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a self-taught student of frontend programming but I am also interested in cybersecurity, which I will study in the near future.
 
@@ -12,7 +12,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 🎮I love playing video games, 🎵 listening to music and 📖 reading Philosophy books
 📫 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
-## My Skills Include
+My Skills Include
 
 <h4> Languages </h4>
 <span> 

@@ -54,6 +54,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 
 ## 🔥 Featured Projects
 **Free platform with technical books translated into Spanish** <br>
+My passion is sharing knowledge. That's why I offer materials translated into Spanish for free to make learning easier.
 <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/" target="_blank">
   <img src="assets/img/capturabiblioteca.png">
 </a>

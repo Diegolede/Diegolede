@@ -6,13 +6,13 @@
 
 I am a self-taught student of frontend programming but I am also interested in cybersecurity, which I will study in the near future.
 
-<img src="assets/Emojis pokemon/5873-pikachu.gif" width="30"> I'm currently learning Python <br>
-<img src="assets/Emojis pokemon/6598-charmander.gif" width="30"> I really want to collaborate on open source projects following the Linux philosophy.<br>
-<img src="assets/Emojis pokemon/8908-dragonite.gif" width="30"> If you need help with something you can ask me without problem.<br>
-<img src="assets/Emojis pokemon/7760-squirtle.gif" width="30"> I love playing video games. <br>
-<img src="assets/Emojis pokemon/2915-bulbasaur.gif" width="30">  listening to music<br>
-<img src="assets/Emojis pokemon/2468-eevee.gif" width="30"> reading Philosophy books.<br>
-<img src="assets/Emojis pokemon/1339-magikarp.gif" width="30"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
+🌱 I'm currently learning Python <br>
+🐧 I really want to collaborate on open source projects following the Linux philosophy.<br>
+✔ If you need help with something you can ask me without problem.<br>
+🎮I love playing video games. <br>
+🎵 listening to music<br>
+📚 reading Philosophy books.<br>
+📞 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
 <b>💻Tech stack</b> 
 

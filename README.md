@@ -6,7 +6,7 @@
 
 I am a self-taught student of frontend programming but I am also interested in cybersecurity, which I will study in the near future.
 
-🌱 I'm currently learning Python <br>
+<img src="assets/Emojis pokemon/5873-pikachu.gif" width="35"> I'm currently learning Python <br>
 🐧 I really want to collaborate on open source projects following the Linux philosophy.<br>
 ✔ If you need help with something you can ask me without problem.<br>
 🎮I love playing video games. <br>

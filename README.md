@@ -57,7 +57,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 <img src="assets/img/capturabiblioteca.png">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
 🚗 Active project <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/">the programming library.</a><br>
 
 <p align="center">

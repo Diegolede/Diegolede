@@ -54,11 +54,13 @@ I am a self-taught student of frontend programming but I am also interested in c
 
 ## 🔥 Featured Projects
 **Free platform with technical books translated into Spanish** <br>
-<img src="assets/img/capturabiblioteca.png">
+<a href="https://diegolede.github.io/Biblioteca-de-programaci-n/">
+  <img src="assets/img/capturabiblioteca.png">
+</a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
-🚗 Active project <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/">the programming library.</a><br>
+
 
 <p align="center">
   <img width="300px" alt="Unicorn" src="https://media.giphy.com/media/pxunm7f738mBRsmQ8q/giphy.gif?cid=ecf05e47rd3tidvf3tkwuc2dvq4hbo3zsif1pv1g12lm37si&ep=v1_stickers_search&rid=giphy.gif&ct=s" />

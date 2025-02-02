@@ -53,7 +53,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 </span>
 
 ## 🔥 Featured Projects
-
+**Free platform with technical books translated into Spanish**
 🚗 Active project <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/">the programming library.</a><br>
 
 <p align="center">

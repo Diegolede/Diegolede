@@ -53,7 +53,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 </span>
 
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBtbTUwNXN6ZTIwOWVwem15OGQxcWc4dXRzdGc0aG5ua3o2NGJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSOhgRkRedzhOQo5iV/giphy.gif" width="70px">&nbsp; ***About me*** 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBtbTUwNXN6ZTIwOWVwem15OGQxcWc4dXRzdGc0aG5ua3o2NGJlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSOhgRkRedzhOQo5iV/giphy.gif" width="70px">&nbsp; ***I will continue expanding my knowledge*** <br>
 ## 🔥 Featured Projects
 **Free platform with technical books translated into Spanish** <br>
 My passion is sharing knowledge. That's why I offer materials translated into Spanish for free to make learning easier.

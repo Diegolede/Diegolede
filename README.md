@@ -6,24 +6,23 @@
     white-space: nowrap;
     margin: 0 auto;
     letter-spacing: .15em;
-    animation: 
-        typing 3.5s steps(30, end),
-        blink-caret .75s step-end infinite;
+    display: inline-block;
+    position: relative;
 ">
     ¡Bienvenido a mi perfil!
+    <span style="
+        content: '';
+        position: absolute;
+        right: 0;
+        width: 0;
+        background: white;
+        animation: 
+            typing 4s steps(30) 1s forwards,
+            blink-caret 1s step-end infinite;
+        animation-delay: 1s;
+        height: 100%;
+    "></span>
 </h1>
-
-<style>
-    @keyframes typing {
-        from { width: 0 }
-        to { width: 100% }
-    }
-
-    @keyframes blink-caret {
-        from, to { border-color: transparent }
-        50% { border-color: orange; }
-    }
-</style>
 <!--<h1 align="center"><img src="https://i.gifer.com/XiPv.gif" width="35"><b>Hello :) , I'm Diego Ledesma </b><img src="https://i.gifer.com/XiPv.gif" width="35"></h1>->
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTNtaTA3ejRza2t3MGQ0dHh1OTI4MGFhZ2w4bG9tZjd6ZDZvamh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FCffpN404oRZpFbSzl/giphy.gif" />

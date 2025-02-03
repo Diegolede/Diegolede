@@ -45,8 +45,8 @@ I am a self-taught student of frontend programming but I am also interested in c
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
   
 
-
-
+<h4> Games </h4>
+<img src="https://img.shields.io/badge/PUBG-FF7A00?logo=pubg&logoColor=white&labelColor=FF7A00&style=for-the-badge">
 
 </span>
 

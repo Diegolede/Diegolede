@@ -31,7 +31,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 </span>
 
 
-<h4> Other Tools and Technologies </h4>
+<h4> tools, technologies and some games. </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Local_AI-2E8B57?logo=llama&logoColor=white&labelColor=2E8B57&style=for-the-badge">
@@ -43,10 +43,7 @@ I am a self-taught student of frontend programming but I am also interested in c
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
-  
-
-<h4> Games </h4>
-<img src="https://img.shields.io/badge/PUBG-FF7A00?logo=pubg&logoColor=white&labelColor=FF7A00&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PUBG-FF7A00?logo=pubg&logoColor=white&labelColor=FF7A00&style=for-the-badge">
 
 </span>
 

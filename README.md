@@ -35,6 +35,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 <span>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Local_AI-2E8B57?logo=llama&logoColor=white&labelColor=2E8B57&style=for-the-badge">
+  <img src="https://img.shields.io/badge/DeepSeek-01B7D6?logo=assets/img/logo-deepseek.png&logoColor=white&labelColor=01B7D6&style=for-the-badge">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">

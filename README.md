@@ -14,7 +14,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 <img src="https://media.giphy.com/media/VMvBLb1lmQ7POd4n10/giphy.gif?cid=ecf05e4704u1ufxda631oxclg4y84ifqxaumzd94121a1aj0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> reading Philosophy books.<br>
 <img src="https://media.giphy.com/media/HZvKgdDvta65uAyg0r/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
-<b><img src="https://media.giphy.com/media/OXOoZWRRXURMKEfaMx/giphy.gif?cid=ecf05e47o5llchw5oar3isbgcn7bg0pawxrcid5s1tj14l0v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">Tech stack</b> 
+<b>Tech stack</b> 
 
 <h4> Languages </h4>
 <span> 

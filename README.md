@@ -6,13 +6,13 @@
 
 I am a self-taught student of frontend programming but I am also interested in cybersecurity, which I will study in the near future.
 
-🌱 I'm currently learning Python <br>
-🐧 I really want to collaborate on open source projects following the Linux philosophy.<br>
-✔ If you need help with something you can ask me without problem.<br>
+<img src="https://media.giphy.com/media/ZCjmyPUlnkHDRc42Id/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> I'm currently learning Python <br>
+<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> I really want to collaborate on open source projects following the Linux philosophy.<br>
+<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> If you need help with something you can ask me without problem.<br>
 <img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25">I love playing video games. <br>
-🎵 listening to music<br>
-📚 reading Philosophy books.<br>
-📞 Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
+<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> listening to music<br>
+<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> reading Philosophy books.<br>
+<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
 <b>💻Tech stack</b> 
 

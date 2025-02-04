@@ -10,9 +10,9 @@ I am a self-taught student of frontend programming but I am also interested in c
 <img src="https://media.giphy.com/media/KsBNnlWoxPE0Zdbh6V/giphy.gif?cid=ecf05e47amczv81qkqin6chxmsunxfa6zrrp1hy3zohjkx1m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> I really want to collaborate on open source projects following the Linux philosophy.<br>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lmcWRsdzY4dGFsZmswa213cm1ncDR1eWNucWJrZ2wxaHdhdTA0NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zIt1sZXSYsPpCIBPkC/giphy.gif" width="25"> If you need help with something you can ask me without problem.<br>
 <img src="https://media.giphy.com/media/IpJnbpcEVlLubYtaWh/giphy.gif?cid=790b7611cifqdlw68talfk0kmwrmgp4uycnqbkgl1hwau046&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25">I love playing video games. <br>
-<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> listening to music<br>
-<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> reading Philosophy books.<br>
-<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
+<img src="https://media.giphy.com/media/HgMApzfUT0bzpd2UnY/giphy.gif?cid=790b7611cifqdlw68talfk0kmwrmgp4uycnqbkgl1hwau046&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> listening to music<br>
+<img src="https://media.giphy.com/media/VMvBLb1lmQ7POd4n10/giphy.gif?cid=ecf05e4704u1ufxda631oxclg4y84ifqxaumzd94121a1aj0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> reading Philosophy books.<br>
+<img src="https://media.giphy.com/media/5KY2xbEcF0l5gZ8x2y/giphy.gif?cid=790b7611cifqdlw68talfk0kmwrmgp4uycnqbkgl1hwau046&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
 <b>💻Tech stack</b> 
 

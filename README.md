@@ -8,7 +8,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 
 <img src="https://media.giphy.com/media/ZCjmyPUlnkHDRc42Id/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> I'm currently learning Python <br>
 <img src="https://media.giphy.com/media/KsBNnlWoxPE0Zdbh6V/giphy.gif?cid=ecf05e47amczv81qkqin6chxmsunxfa6zrrp1hy3zohjkx1m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> I really want to collaborate on open source projects following the Linux philosophy.<br>
-<img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> If you need help with something you can ask me without problem.<br>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lmcWRsdzY4dGFsZmswa213cm1ncDR1eWNucWJrZ2wxaHdhdTA0NiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/zIt1sZXSYsPpCIBPkC/giphy.gif" width="25"> If you need help with something you can ask me without problem.<br>
 <img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25">I love playing video games. <br>
 <img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> listening to music<br>
 <img src="https://media.giphy.com/media/30dTts1MOM5EclROo7/giphy.gif" width="25"> reading Philosophy books.<br>

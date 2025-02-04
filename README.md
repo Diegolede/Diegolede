@@ -1,4 +1,4 @@
-<img align="center" src="https://tenor.com/fNA51HEZ9Bw.gif" width="35">
+<img align="center" src="https://tenor.com/fNA51HEZ9Bw.gif">
 
 <h1 align="center"><img src="https://i.gifer.com/XiPv.gif" width="35"><b>Hello :) , I'm Diego Ledesma </b><img src="https://i.gifer.com/XiPv.gif" width="35"></h1>
 <!--  -->

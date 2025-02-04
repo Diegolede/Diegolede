@@ -14,7 +14,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 <img src="https://media.giphy.com/media/VMvBLb1lmQ7POd4n10/giphy.gif?cid=ecf05e4704u1ufxda631oxclg4y84ifqxaumzd94121a1aj0&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> reading Philosophy books.<br>
 <img src="https://media.giphy.com/media/HZvKgdDvta65uAyg0r/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> Contact me at: <a href="diegoledesma9@outlook.com">diegoledesma9@outlook.com</a>
 
-<b><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRwdGU0aHR2bGw4YndzMmFoNzRiejIzYnM4NmEzemt1ZzJtN2IwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/Ieo88333eatH73xKQG/giphy.gif" width="35">Tech stack</b> 
+<h4><img src="https://media.giphy.com/media/X6e6ZgTuMH015kpjED/giphy.gif?cid=790b7611cifqdlw68talfk0kmwrmgp4uycnqbkgl1hwau046&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">Tech stack</h4> 
 
 <h4> Languages </h4>
 <span> 

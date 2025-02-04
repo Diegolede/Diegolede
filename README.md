@@ -60,7 +60,7 @@ I am a self-taught student of frontend programming but I am also interested in c
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29sb2QxdjU4MGRhYTd6eGk5OWJodXJjbHN1dGhkNWVnem8xZG5wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSOhgRkRedzhOQo5iV/giphy.gif" width="70px">&nbsp; ***I will continue expanding my knowledge*** <br>
-## 🔥 Featured Projects
+## <img src="https://media.giphy.com/media/GrRxldv1VGzwYK6KNj/giphy.gif?cid=790b761132i3z06o7jze9ud8ccmpk07ducs951htxqqqxzpx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> Featured Projects
 **Free platform with technical books translated into Spanish** <br>
 My passion is sharing knowledge. That's why I offer materials translated into Spanish for free to make learning easier.
 <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/" target="_blank">

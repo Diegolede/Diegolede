@@ -72,9 +72,8 @@ My passion is sharing knowledge. That's why I offer materials translated into Sp
 
 **a pomodoro timer with a cute little frog that will accompany you in your studies** <br>
 <a href="https://diegolede.github.io/Biblioteca-de-programaci-n/" target="_blank">
-  <img src="assets/img/capturabiblioteca.png">
+  <img src="assets/img/capturapomodoro.png">
 </a>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>

@@ -73,7 +73,7 @@ My passion is sharing knowledge. That's why I offer materials translated into Sp
 **A pomodoro timer with a cute little frog that will accompany you in your studies** <br>
 A little frog will accompany you on your adventures in the study and breaks.
 <a href="https://diegolede.github.io/Rene-Pomodoro/" target="_blank">
-  <img src="assets/img/capturapomodoro1.jpeg">
+  <img src="assets/img/pomodoro.gif">
 </a>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">

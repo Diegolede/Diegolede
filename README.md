@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/ZCjmyPUlnkHDRc42Id/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> <b>Actualmente:</b> Aprendiendo sobre gestión de servidores y medios.<br>
   <img src="https://media.giphy.com/media/KsBNnlWoxPE0Zdbh6V/giphy.gif?cid=ecf05e47amczv81qkqin6chxmsunxfa6zrrp1hy3zohjkx1m&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> <b>Meta:</b> Quiero colaborar en proyectos Open Source siguiendo la filosofía Linux.<br>
   <img src="https://media.giphy.com/media/IpJnbpcEVlLubYtaWh/giphy.gif?cid=790b7611cifqdlw68talfk0kmwrmgp4uycnqbkgl1hwau046&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> <b>Hobby:</b> Me encanta jugar videojuegos.<br>
-  <img src="https://media.giphy.com/media/HZvKgdDvta65uAyg0r/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> <b>Contacto:</b> <a href="mailto:diegoledesma9@outlook.com">diegolede9@gmail.com</a>
+  <img src="https://media.giphy.com/media/HZvKgdDvta65uAyg0r/giphy.gif?cid=ecf05e475i663mjn99yush5clts7xbtba4elk6wg3bro75m1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20"> <b>Contacto:</b> <a href="mailto:diegolede9@gmail.com">diegolede9@gmail.com</a>
 </p>
 
 <br clear="all">

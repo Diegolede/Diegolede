@@ -12,7 +12,7 @@
 </h3>
 
 <p>
-  Soy un estudiante de programación autodidacta. Actualmente estoy profundizando en el ecosistema de <b>Arch Linux</b> y en el <b>VideCoding</b> (tanto Local como Cloud).
+  Soy un estudiante de programación autodidacta. Actualmente estoy profundizando en el ecosistema de <b>Arch Linux</b> y en el <b>VibeCoding</b> (tanto Local como Cloud).
 </p>
 
 <p>

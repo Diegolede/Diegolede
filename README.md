@@ -46,6 +46,7 @@
 
 ### 🚀 Herramientas, Tecnologías e Intereses
 <div align="left">
+  <img src="https://img.shields.io/badge/VibeCoding-FF0080?style=for-the-badge&logo=sparkles&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
   <br>
@@ -86,11 +87,3 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29sb2QxdjU4MGRhYTd6eGk5OWJodXJjbHN1dGhkNWVnem8xZG5wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSOhgRkRedzhOQo5iV/giphy.gif" width="50px">
   Seguiré ampliando mis conocimientos...
 </h3>
-
----
-
-<h3 align="center">Has llegado al final, pero esto continuará</h3>
-
-<p align="center">
-  <img width="300" alt="Unicornio final" src="https://media.giphy.com/media/pxunm7f738mBRsmQ8q/giphy.gif?cid=ecf05e47rd3tidvf3tkwuc2dvq4hbo3zsif1pv1g12lm37si&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
-</p>

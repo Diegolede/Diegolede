@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/uSbOSZNBgLtxtqtoU1/giphy.gif?cid=ecf05e47137dgrkmpuw8zn576nftzmkrhk74xcvudfhb1ce1&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="35">
-  <b>Hola :), Soy Diego Ledesma</b>
+  <b>Hola :), Soy TRN1</b>
   <img src="https://media.giphy.com/media/uSbOSZNBgLtxtqtoU1/giphy.gif?cid=ecf05e47137dgrkmpuw8zn576nftzmkrhk74xcvudfhb1ce1&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="35">
 </h1>
 

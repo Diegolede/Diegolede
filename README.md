@@ -60,26 +60,8 @@ I am a self-taught student of frontend programming but I am also interested in c
 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29sb2QxdjU4MGRhYTd6eGk5OWJodXJjbHN1dGhkNWVnem8xZG5wdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qSOhgRkRedzhOQo5iV/giphy.gif" width="70px">&nbsp; ***I will continue expanding my knowledge*** <br>
-## <img src="https://media.giphy.com/media/GrRxldv1VGzwYK6KNj/giphy.gif?cid=790b761132i3z06o7jze9ud8ccmpk07ducs951htxqqqxzpx&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="40"> Featured Projects
-**Free platform with technical books translated into Spanish** <br>
-My passion is sharing knowledge. That's why I offer materials translated into Spanish for free to make learning easier.
-<a href="https://diegolede.github.io/Biblioteca-de-programaci-n/" target="_blank">
-  <img src="assets/img/biblioteca.gif"> 
-</a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
 
-**A pomodoro timer with a cute little frog that will accompany you in your studies** <br>
-A little frog will accompany you on your adventures in the study and breaks.
-<a href="https://diegolede.github.io/Rene-Pomodoro/" target="_blank">
-  <img src="assets/img/pomodoro1.gif">
-</a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Local_AI-2E8B57?logo=llama&logoColor=white&labelColor=2E8B57&style=for-the-badge">
-<br>
+
 
 ## You have reached the end but this will continue
 

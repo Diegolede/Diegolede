@@ -1,15 +1,15 @@
 # Hola! Soy Diego Ledesma
 
-**Desarrollador de Aplicaciones con asistencia de IA y Soluciones de Productividad | Diseñador UX/UI**
+**Desarrollador de Aplicaciones y Soluciones de Productividad | Diseñador UX/UI**
 
 ## Sobre mí
 
-Tengo 23 años y me especializo en el desarrollo de aplicaciones y soluciones orientadas a la productividad, utilizando programación asistida por IA (vibecoding). Combino habilidades técnicas de desarrollo con experiencia en diseño de interfaces para crear productos funcionales y visualmente atractivos.
+Tengo 23 años y me especializo en la creación de soluciones digitales, enfocado en el desarrollo acelerado mediante IA (Vibecoding). Fusiono la lógica del desarrollo con la estética del diseño para crear productos que no solo funcionan, sino que se sienten bien al usarse.
 
 ## Competencias Técnicas
 
 ### Desarrollo
-- **Metodología:** Vibecoding (programación asistida por IA)
+- **Flujo de Trabajo:** Vibecoding (programación asistida por IA)
 - **Enfoque:** Aplicaciones de productividad y herramientas especializadas
 
 ### Procesamiento de Datos
@@ -25,4 +25,4 @@ Tengo 23 años y me especializo en el desarrollo de aplicaciones y soluciones or
 
 ## Contacto
 
-Disponible para colaboraciones y proyectos relacionados con desarrollo de aplicaciones, diseño de interfaces y soluciones de productividad.
+Estoy abierto a nuevos retos en desarrollo y diseño. Si tienes una idea o proyecto en mente, contáctame.

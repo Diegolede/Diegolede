@@ -9,7 +9,6 @@ Tengo 23 años y me especializo en el desarrollo de aplicaciones y soluciones or
 ## Competencias Técnicas
 
 ### Desarrollo
-- **Lenguajes:** HTML, CSS, JavaScript, Python
 - **Metodología:** Vibecoding (programación asistida por IA)
 - **Enfoque:** Aplicaciones de productividad y herramientas especializadas
 

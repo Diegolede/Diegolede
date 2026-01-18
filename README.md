@@ -1,7 +1,6 @@
-# 𝙃𝙤𝙡𝙖! 𝙎𝙤𝙮 𝘿𝙞𝙚𝙜𝙤 𝙇𝙚𝙙𝙚𝙨𝙢𝙖
+# Hola! Soy Diego Ledesma
 
-**Desarrollador de Aplicaciones y Soluciones de Productividad | Diseñador UX/UI**
-
+**Desarrollador de Aplicaciones con asistencia de IA y Soluciones de Productividad | Diseñador UX/UI**
 
 ## Sobre mí
 
@@ -25,8 +24,6 @@ Tengo 23 años y me especializo en el desarrollo de aplicaciones y soluciones or
 ### Entorno de Desarrollo
 - **Sistema Operativo:** Arch Linux
 
-
 ## Contacto
 
 Disponible para colaboraciones y proyectos relacionados con desarrollo de aplicaciones, diseño de interfaces y soluciones de productividad.
-

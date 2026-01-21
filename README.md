@@ -26,3 +26,6 @@ Tengo 23 años y me especializo en la creación de soluciones digitales, enfocad
 ## Contacto
 
 Estoy abierto a nuevos retos en desarrollo y diseño. Si tienes una idea o proyecto en mente, contáctame.
+
+diegolede9@gmail.com
++54 3482 208324
